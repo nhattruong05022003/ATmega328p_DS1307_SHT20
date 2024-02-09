@@ -1,6 +1,0 @@
-VERSION:3 SOURCE_TIMESTAMP:56FCA2C5
-NODE:M LEVEL:0 LINE:2 "_SHT20_H_"
-NODE:I LEVEL:0 LINE:6 "D:\CodeVisionAVR\inc\mega328p.h"
-NODE:I LEVEL:0 LINE:7 "D:\CodeVisionAVR\inc\delay.h"
-NODE:I LEVEL:0 LINE:8 "D:\Nhung\ATmega\ATmega328p\Project\ATmega328p_DS1307_SHT20\Code\Soft_I2c.h"
-NODE:I LEVEL:0 LINE:9 "D:\Nhung\ATmega\ATmega328p\Project\ATmega328p_DS1307_SHT20\Code\lcd4.h"
