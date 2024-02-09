@@ -1,4 +1,6 @@
-# Digital clock uses ATmega328p interfacing with DS1307 for time and SHT20 for measuring temperature and humidity in your room.
+# ATmega328p_DS1307_SHT20
+
+Digital clock uses ATmega328p interfacing with DS1307 for time and SHT20 for measuring temperature and humidity in your room.
 
 IDE: CodeVisionAVR 
 
