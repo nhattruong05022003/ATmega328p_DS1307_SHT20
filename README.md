@@ -4,7 +4,7 @@ Digital clock uses ATmega328p interfacing with DS1307 for time and SHT20 for mea
 
 IDE: CodeVisionAVR 
 
-Stimulating Tools: Proteus
+Simulating Tools: Proteus
 
 ![image](https://github.com/nhattruong05022003/ATmega328p_DS1307_SHT20/assets/145974955/2f1cd541-c0be-473a-861c-cd37253ccbf2)
 
